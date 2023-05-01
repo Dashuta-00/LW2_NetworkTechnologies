@@ -1,0 +1,12 @@
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.csproj.AssemblyReference.cache
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.AddForm.resources
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.Form1.resources
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.Properties.Resources.resources
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.csproj.GenerateResource.cache
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.csproj.CoreCompileInputs.cache
+D:\Сетевые технологии\ЛР1\ЛР2\bin\Debug\ЛР2.exe.config
+D:\Сетевые технологии\ЛР1\ЛР2\bin\Debug\ЛР2.exe
+D:\Сетевые технологии\ЛР1\ЛР2\bin\Debug\ЛР2.pdb
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.exe
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.pdb
+D:\Сетевые технологии\ЛР1\ЛР2\obj\Debug\ЛР2.RedactForm.resources
